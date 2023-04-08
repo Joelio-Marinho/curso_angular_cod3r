@@ -1,19 +1,29 @@
 {
-    "produtos": [
-        {
-            "id": 1,
-            "name": "macbook",
-            "price": 12000.00
-        },
-        {
-            "id": 2,
-            "name": "caneta",
-            "price": 1.80
-        },
-        {
-            "id": 3,
-            "name": "casa de taipa",
-            "price": 128.00
-        }
-    ]
+  "produtos": [
+    {
+      "id": 1,
+      "name": "macbook",
+      "price": 12000
+    },
+    {
+      "id": 2,
+      "name": "caneta",
+      "price": 1.8
+    },
+    {
+      "id": 3,
+      "name": "casa de taipa",
+      "price": 128
+    },
+    {
+      "name": "",
+      "price": 1,
+      "id": 4
+    },
+    {
+      "name": "joelio PMO",
+      "price": "12",
+      "id": 5
+    }
+  ]
 }
